@@ -1,2 +1,2 @@
 # LiTE-Chat
-A realtime chatting app for IOS written in Swift
+A realtime chatting app for IOS written in Swift using FireBase
